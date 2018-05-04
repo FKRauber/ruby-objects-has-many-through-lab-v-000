@@ -7,4 +7,11 @@ class Song
     genre.add_song(self)
   end
 
+
+  def genre
+
+  end
+  def artist
+
+  end
 end
