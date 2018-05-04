@@ -9,7 +9,7 @@ class Song
 
 
   def genre
-
+    @genre
   end
   def artist
 
